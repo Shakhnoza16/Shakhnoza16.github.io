@@ -6,7 +6,11 @@
   padding: 0;
   background-color: #121212;
 }
-
+#wholepage{
+  width:900px;
+  margin-left:auto;
+  margin-right:auto;
+}
 button, li, a {
   font-family: "Lora", serif;
   font-weight: 700;
